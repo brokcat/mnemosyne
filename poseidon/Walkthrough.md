@@ -142,7 +142,7 @@ Step-by-step:
     - Map behaviors to techniques
         
 
-Answer: T1027 (Obfuscated Files or Information), T1564.001 (Hidden Files and Directories), T1070.004 (File Deletion)
+Answer: T1027, T1564.001, T1070.004
 
 ---
 
