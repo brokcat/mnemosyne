@@ -221,3 +221,25 @@ Answer: 2023
 - No access to private CTI tools is required.
     
 - This walkthrough is designed to be beginner-friendly while ensuring analytical depth.
+
+
+---
+
+## Sources
+
+### Required Sites:
+- [VirusTotal](https://www.virustotal.com)
+- [CYFIRMA – OSINT Investigation](https://www.cyfirma.com/research/osint-investigation-hunting-malicious-infrastructure-linked-to-transparent-tribe/)
+- [Malpedia – Transparent Tribe](https://malpedia.caad.fkie.fraunhofer.de/actor/transparent_tribe)
+- [MITRE ATT&CK – Transparent Tribe (G0134)](https://attack.mitre.org/groups/G0134/)
+- [IPinfo.io](https://ipinfo.io)
+- [DomainTools WHOIS](https://whois.domaintools.com/)
+- [GINC – APT36](https://www.ginc.org/apt36/)
+
+### Main Validation Links:
+- [CYFIRMA Article on Poseidon](https://www.cyfirma.com/research/osint-investigation-hunting-malicious-infrastructure-linked-to-transparent-tribe/)
+- [VirusTotal – Poseidon Hash Details](https://www.virustotal.com/gui/file/242f77b4e65671a55e103b8b26df46a7)
+- [MITRE – Techniques used by Transparent Tribe](https://attack.mitre.org/groups/G0134/)
+- [Malpedia – Transparent Tribe Profile](https://malpedia.caad.fkie.fraunhofer.de/actor/transparent_tribe)
+- [GINC – Attribution to ISI](https://www.ginc.org/apt36/)
+
