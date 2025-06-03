@@ -123,8 +123,7 @@ Answer: DigitalOcean
 
 ---
 
-## Question 5: List three MITRE ATT&CK techniques used by the malware.
-
+## Question 5: List three MITRE ATT&CK techniques under the Defense Evasion tactic that were used by the malware.
 Step-by-step:
 
 1. Read the CYFIRMA technical blog:
@@ -176,7 +175,7 @@ Step-by-step:
 3. Validate with threat context and long-standing strategic targeting pattern against India.
     
 
-Answer: Inter-Services Intelligence (ISI)
+Answer: Inter-Services Intelligence
 
 ---
 
